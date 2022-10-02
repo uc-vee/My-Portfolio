@@ -86,7 +86,7 @@ function ContactForm({ contactActive, closeContactForm }) {
         const templateParams = {
             from_name: name,
             sender_email: email,
-            message
+            message: message
         };
 
         // check if EMAILJS_SERVICE_ID, EMAILJS_TEMPLATE_ID, templateParams, EMAILJS_PUBLIC_KEY isnt empty

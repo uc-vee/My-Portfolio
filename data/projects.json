@@ -1,18 +1,25 @@
 {
     "projects":[
         {
-            "title": "Some dummy title",
+            "title": "Simple Calculator",
             "imageUrl": "",
-            "project_url": "",
-            "description": "some basi project description",
-            "tags": [ "react", "postgresql", "nodejs" ]
+            "project_url": "https://github.com/VickoLee/CalculatorbyVee",
+            "description": "A simple calculator with dark and light mode switch",
+            "tags": [ "html", "css", "javascript" ]
         },
         {
-            "title": "Some dummy title",
+            "title": "Rock Paper Scissors game",
             "imageUrl": "",
-            "project_url": "",
-            "description": "some basi project description",
-            "tags": [ "react", "postgresql", "nodejs" ]
+            "project_url": "https://github.com/VickoLee/Python-RPS-Game",
+            "description": "A Rock Paper Scissors game developed using python",
+            "tags": [ "python"]
+        },
+        {
+         "title": "EastEquip",
+            "imageUrl": "",
+            "project_url": "https://github.com/VickoLee/EastEquip",
+            "description": "A brand website for an engineering firm",
+            "tags": [ "html", "css", "javascript", "python", "djangoh"]
         }
     ]
 }
